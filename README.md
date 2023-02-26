@@ -1,2 +1,2 @@
 # graphql-notes
-Quick notes for a GraphQL server setup and usage
+Quick notes for GraphQL server setup and usage
